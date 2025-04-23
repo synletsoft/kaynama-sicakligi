@@ -42,6 +42,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Exps.int,
 		C3.Plugins.System.Exps.tokenat,
 		C3.Plugins.System.Acts.SetLayerVisible,
+		C3.Plugins.Sprite.Acts.SetVisible,
 		C3.Plugins.skymen_mask.Acts.SetWidth,
 		C3.Plugins.System.Acts.AddVar,
 		C3.Plugins.System.Cnds.CompareVar,

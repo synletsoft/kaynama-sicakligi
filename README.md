@@ -1,2 +1,0 @@
-# kaynama-sicakligi
- 
